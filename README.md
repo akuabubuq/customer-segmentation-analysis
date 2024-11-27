@@ -45,7 +45,7 @@ Link: https://github.com/akuabubuq/customer-segmentation-analysis/blob/main/Expl
 - Only about 38% of our user base has made recent transactions, highlighting a weak performance in user retention.
 
 #### Clustering Analysis
-Link:
+Link: https://github.com/akuabubuq/customer-segmentation-analysis/blob/main/Clustering%20Analysis.ipynb
 
 #### Slides Presentation: Marketing Analysis
 Link: https://docs.google.com/presentation/d/12-taL0XsSVlQ8S6-2UnQLVqBUYdFnbYi_Jx1F3TWrsk/edit?usp=sharing
