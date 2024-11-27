@@ -33,7 +33,7 @@ Python, Google Slides
 ### Results
 
 #### Exploratory Data Analysis
-Link: 
+Link: https://github.com/akuabubuq/customer-segmentation-analysis/blob/main/Exploratory%20Data%20Analysis.ipynb
 1. Data Cleaning and Preprocessing:
 - Mostly user in dataset comes from united kingdom, hence we will filter the data to only United Kingdom customers
 - There is 135080 nulls value in Customer ID and 1454 nulls value in Description
