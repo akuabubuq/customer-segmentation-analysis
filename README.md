@@ -24,7 +24,7 @@ Link: https://archive.ics.uci.edu/dataset/352/online+retail
 
 #### Methodology
 - Exploratory Data Analysis: Cleaned and preprocess the dataset, identifying trends
-- CLustering: K-Means
+- Clustering: K-Means
 - Data transformation: Principal Component Analysis (PCA)
 
 #### Tools
